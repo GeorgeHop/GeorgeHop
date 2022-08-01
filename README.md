@@ -18,11 +18,7 @@ I also have my own project where I have done everything by myself, moneymanageme
 # 🙌🏼 Open source
 
 As a full stack developer I contributed on different projects like:
-- [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
-- [appscanner-cli](https://github.com/dotmind/appscanner-cli)
-- [react-native-gif-search](https://github.com/Thanasis1101/react-native-gif-search)
-- [node-mongo-dump](https://github.com/dotmind/node-mongo-dump)
-- [react-native-anchor-point](https://github.com/sueLan/react-native-anchor-point)
+- [react-native-use-on-change](https://github.com/dotmind/rn-shadow-generator)
 
 # ⚡️ Expertise
 
