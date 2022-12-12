@@ -30,7 +30,7 @@ And also I work for [ZROBLENO](https://luko.eu/) as a Lead Mobile Developer(part
 
 
 I also have my own project where I have done everything by myself from the begining, moneymanagement application. You can check it by link below. 
-For now we working in a team in 7 people which includes QA, Developers, Designers. If you want to work with us feel free to write me on linkedin. 
+For now we working in a team in 3 people which includes QA, Developers, Designers. If you want to work with us feel free to write me on linkedin. 
 
 
 :exclamation::exclamation::exclamation: We searching for new members :exclamation::exclamation::exclamation:
