@@ -1,8 +1,6 @@
 # Hello there 👋
 
  🏄 I'm George, a react-native mobile developer from Ukraine currently living in Poland<br />
- 🏡 Working for [Nfinity.pl](https://nfinity.pl/) from home<br />
- 🏡 Working for [ZROBLENO](https://zrobleno.com.ua/) from home<br />
  🏉 Creator, Traveler, Photographer
 
 <div align="center">
