@@ -10,13 +10,6 @@
 </div>
   
 
-
-# 👨🏼‍💻 Work
-
-I worked for [nectardesk](https://www.nectardesk.com/) as a Full Stack Developer.<br />
-I actually work for [Nfinity.pl](https://luko.eu/) as a Lead Full-stack Developer.<br/>
-And also I work for [ZROBLENO](https://luko.eu/) as a Lead Mobile Developer(part time).<br/>
-
 # 🎸 Side project
 
 ### MCircle app - money managment social network
